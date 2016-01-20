@@ -1,0 +1,8 @@
+/* @media screen and (max-width: 980px) { */
+	body {
+		width: 980px;
+		margin: 0 auto;
+		text-align: center;
+		font-family: '맑은 돋움';
+	}
+}
